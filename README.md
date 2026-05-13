@@ -1,2 +1,5 @@
-# roblox-ping-mini-refresh
-Chrome extension that shows Roblox server ping directly in the server list.
+# Privacy Policy
+
+This extension does not collect, store, or share personal user data.
+
+The extension only fetches Roblox public server information to display ping data inside Roblox pages.
